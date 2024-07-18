@@ -1,6 +1,6 @@
 # HELLO-WORLD
 
-Este é um projeto simples de "Hello World" para demonstrar os conceitos básicos de um repositório GitHub.
+Este é um projeto simples de "Hello World" para demonstrar os conceitos do javascript.
 
 ## Descrição
 
